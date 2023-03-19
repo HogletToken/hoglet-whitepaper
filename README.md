@@ -1,1 +1,0 @@
-# hoglet-whitepaper
